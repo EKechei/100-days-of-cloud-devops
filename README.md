@@ -1,2 +1,7 @@
-# 100-days-of-cloud-devops
-🚀 My personal 100-day challenge to build 100 real-time hands-on Cloud and DevOps projects using AWS, Terraform, Docker, Kubernetes, and more!
+# 100 Days of Cloud & DevOps 🚀
+
+Welcome to my self-paced challenge where I complete 100 real-world, hands-on projects in Cloud and DevOps!  
+This repo tracks my journey, growth, and contributions to mastering cloud architecture, CI/CD, automation, containers, and more.
+
+Stay tuned!
+
