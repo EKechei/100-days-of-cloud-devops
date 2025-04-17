@@ -1,6 +1,9 @@
 # Project 01: Set Up a Basic AWS EC2 Instance and Deploy a Web Application
 
-🚀 **Goal:** Launch an Ubuntu EC2 instance and deploy a static web page using Apache.
+📘 **Overview:**  
+Setting up a basic AWS EC2 instance and deploying a web application is a fundamental skill in cloud computing and DevOps. It allows developers to host applications in a scalable and reliable environment, ensuring that applications are accessible over the internet. This use case provides an introduction to cloud infrastructure, demonstrating how to deploy and manage web applications in a cloud environment.
+
+🚀 **Goal:** Launch an Ubuntu EC2 instance and deploy a simple web application using Apache.
 
 ---
 
