@@ -37,7 +37,4 @@ Once launched, access your site at:
 
 ---
 
-## 🔗 Useful Links
 
-- [Ubuntu Apache Setup Guide](https://ubuntu.com/server/docs/web-servers-apache)
-- [AWS EC2 Docs](https://docs.aws.amazon.com/ec2/)
